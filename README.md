@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/RamanRed/snake-game.git
 cd snake-game
 Run the game:
 
