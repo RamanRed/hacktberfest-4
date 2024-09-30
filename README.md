@@ -28,7 +28,7 @@ To run the Snake Game, ensure you have **Python** and the **turtle graphics** li
 
    ```bash
    git clone https://github.com/RamanRed/hacktberfest-4.git
-   cd snake-game
+   
    ```
 
 2. **Run the game**:
